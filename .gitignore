@@ -33,6 +33,7 @@
 
 # Folders
 build/
+.clangd/
 
 # System paths
 compile_commands.json
